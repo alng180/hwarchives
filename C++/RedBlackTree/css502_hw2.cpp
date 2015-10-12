@@ -1,4 +1,4 @@
-// css502_hw2.cpp : Defines the entry point for the console application.
+// main.cpp
 //
 
 #include "RBTree.h"

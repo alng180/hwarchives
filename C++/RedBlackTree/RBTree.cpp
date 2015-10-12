@@ -1,5 +1,4 @@
 // RBTree.cpp
-// Albert Ng
 // 
 // RBTree is a class that represents/implements a red black tree. It will take
 // in integers and then store them in the binary search tree. These integers 
