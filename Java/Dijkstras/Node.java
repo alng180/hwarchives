@@ -1,3 +1,5 @@
+// Node
+
 public class Node {
 	public int id;
 	public int cost;

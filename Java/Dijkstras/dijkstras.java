@@ -1,3 +1,6 @@
+// Simple Dijkstras Algorithm Program
+
+
 public class dijkstras {
 	public static void main(String[] args) {
 		int[][] matrix = {{100, 5, 3, 100, 100, 100, 100}, 
